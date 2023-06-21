@@ -1,0 +1,129 @@
+.container-Business-Serv {
+  margin-top: 100px;
+  /* display: inline-block; */
+  background-color: #ffff;
+  padding-left: 157px;
+}
+.BusServ-top {
+  display: flex;
+
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+ margin-left: 200px;
+ margin-right: auto;
+  max-width: 600px;
+  margin-bottom: 100px;
+}
+.BusServ-top h1{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 57px;
+/* identical to box height, or 142% */
+padding-bottom: 15px;
+text-align: center;
+letter-spacing: 0.2px;
+
+/* text-color */
+
+color: #252B42;
+}
+
+.BusServ-top p{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+}
+  
+/* <---bottom---> */
+
+.BusServ-bottom {
+  display: inline-block;
+  display: flex;
+}
+.video {
+  width: 597px;
+  height: 442px;
+ background-image: url(../image/cover\ \(1\).svg);
+}
+
+
+
+
+/* .business-video-left {
+  margin-right: 121px;
+} */
+
+.business-list-right{
+padding-left: 100px;
+
+}
+.business-list-right h1 {
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 57px;
+/* or 142% */
+
+letter-spacing: 0.2px;
+
+/* text-color */
+margin-bottom: 10px;
+color: #252B42;
+}
+
+.p-p{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+letter-spacing: 0.1px;
+
+/* text-color */
+
+color: #17181c;
+}
+.pp {
+  margin-bottom: 50px;
+}
+.LIST {
+  display: flex;
+  gap: 20PX;
+  margin-bottom: 30px;
+}
+.list {
+padding-bottom: 15px;
+}
+.pp,.list p {
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+}
+

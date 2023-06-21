@@ -1,0 +1,100 @@
+.logos-subscribe-section {
+ background: #ffff;
+}
+.SubLogo-container {
+    
+
+list-style: none;
+
+
+}
+
+.top-logos{
+   display: flex;
+  padding-top: 56px;
+  justify-content: space-between;
+list-style: none;
+margin-bottom: 100px;
+}
+.logos-img {
+  list-style-type: none;
+text-decoration: none;
+display: inline-block;
+}
+.bottom-subscribeBox {
+  margin-bottom: 60px;
+}
+.subscribe {
+  flex-wrap: nowrap;
+}
+.subscribe button {
+  background: #FFA62B;
+border: 1px solid #E6E6E6;
+border-radius: 0px 5px 5px 0px;
+padding: 14px 22px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 28px;
+/* identical to box height, or 200% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+/* light-text-color */
+position: relative;
+top: -2px;
+left: -115px;
+color: #FFFFFF;
+
+}
+.subscribe{
+ position: relative;
+ right: -650px;
+ top: -90px;
+}
+.subscribe input {
+  padding: 15px 20px;
+  width: 450px;
+  outline: none;
+  height: 58px;
+  font-size: 20px;
+}
+
+.bottom-subscribeBox h2 {
+  padding: 30px 430px 30px 50px;
+
+  background: #16697A;
+border-radius: 2px;
+
+}
+.bottom-subscribeBox h2 {
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 32px;
+/* or 133% */
+
+letter-spacing: 0.1px;
+
+/* light-text-color */
+
+color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

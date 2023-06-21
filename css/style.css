@@ -1,0 +1,190 @@
+@import "common.css";
+@import "header.css";
+@import "about us.css";
+@import "advice.css";
+@import "business-serv.css";
+@import "logo-section.css";
+@import ".contact us log in.css";
+@import "contact us.css";
+@import "footer.css";
+    
+
+/* <----FONTS---> */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700;1,800;1,900&family=Poppins:wght@400;600;800&display=swap");
+
+
+
+
+
+
+
+/* <--- BOTTOM-ROWS---> */
+
+.bottom-rows {
+  display: inline-block;
+
+  padding-right: auto;
+  padding-left: auto;
+position: relative;
+bottom: -100px;
+  display: flex;
+
+  /* width: 100vw; */
+  gap: 40px;
+  margin-left: 350px;
+}
+.row,
+.row3 {
+  background-color: #fafafa;
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+  /* position: relative;
+  bottom: -100px;  */
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 45px 90px;
+  padding-left: 40px;
+  padding-right: 150px;
+  width: auto;
+  align-self: stretch;
+}
+
+.row {
+ 
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+  /* position: relative;
+  bottom: -100px;  */
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 45px 90px;
+  padding-left: 40px;
+  padding-right: 50px;
+  width: auto;
+  height: auto;
+  align-self: stretch;
+}
+
+
+
+
+.row3:hover,.h1:hover {
+   background: #FAFAFA;
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+
+
+}
+.row:hover,.h1:hover {
+   background: #92b8bf;
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+
+
+}
+
+.row h1,.row3 h1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.1px;
+  color: #252b42;
+  flex: none;
+  order: 1;
+  margin-bottom: 10px;
+  color: #252b42;
+  flex: none;
+  order: 1;
+}
+
+.row3 h1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  margin-bottom: 10px;
+  letter-spacing: 0.1px;
+  color: #565252;
+  flex: none;
+  order: 1;
+}
+.row3 h1:hover {
+   font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  margin-bottom: 10px;
+  letter-spacing: 0.1px;
+  color: #252B42;
+
+  flex: none;
+  order: 1;
+}
+
+.row p { 
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  color: #737373;
+  letter-spacing: 0.2px;
+  flex: none;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #737373;
+  flex: none;
+  order: 2;
+} 
+.row img,
+.row3 img {
+  color: #00a0c1;
+  width: 68px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+.row3 p:hover{
+  color: #252B42;
+}
+
+
+.row3 {
+  background: #00a0c1;
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+}
+
+.row3 p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  flex: none;
+  order: 2;
+  
+}
+
+
+@media only screen and {
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
