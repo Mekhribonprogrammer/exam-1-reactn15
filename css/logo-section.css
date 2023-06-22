@@ -32,19 +32,13 @@ display: inline-block;
 border: 1px solid #E6E6E6;
 border-radius: 0px 5px 5px 0px;
 padding: 14px 22px;
-
-
 font-family: 'Montserrat';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
 line-height: 28px;
-/* identical to box height, or 200% */
-
 text-align: center;
 letter-spacing: 0.2px;
-
-/* light-text-color */
 position: relative;
 top: -2px;
 left: -115px;
@@ -53,7 +47,7 @@ color: #FFFFFF;
 }
 .subscribe{
  position: relative;
- right: -650px;
+ right: -570px;
  top: -90px;
 }
 .subscribe input {
